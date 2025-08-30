@@ -47,7 +47,12 @@ Play with a friend or challenge the computer with three difficulty levels: **Eas
 
 ## 📹 Demo Video
 
-[![Watch full demo](demo.gif)](https://youtu.be/qcRaIvW_Gkg)
+<p align="center">
+  <a href="https://youtu.be/qcRaIvW_Gkg">
+    <img src="https://img.youtube.com/vi/qcRaIvW_Gkg/0.jpg" alt="Watch the video" width="600"/>
+  </a>
+</p>
+
 
 ---
 
