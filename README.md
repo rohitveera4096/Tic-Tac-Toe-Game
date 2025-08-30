@@ -39,7 +39,7 @@ Play with a friend or challenge the computer with three difficulty levels: **Eas
    git clone https://github.com/[your-username]/tic-tac-toe.git
    ```
 2. Open `sixth.html` in your browser.
-3. Or play directly on the **[Live Demo](#)** link.
+3. Or play directly on the **[Live Demo](https://rohitveera4096.github.io/Tic-Tac-Toe-Game/)** link.
 
 ---
 
