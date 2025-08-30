@@ -21,7 +21,7 @@
 ## 🚀 Demo GIFs
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/09e21144-1217-42ac-821c-94bb7a7bf74e" alt="Demo GIF" width="500"/>
+  <img src="https://github.com/user-attachments/assets/33922ba4-84f5-4292-9fe3-91aef89470d6" alt="Tic-Tac-Toe GIF" width="500"/>
 </p>
 
 ---
