@@ -3,9 +3,7 @@
 A modern Tic-Tac-Toe web game built with **vanilla HTML, CSS, and JavaScript**.  
 Play with a friend or challenge the computer with three difficulty levels: **Easy, Medium, Hard**.
 
- 🔗 **[Demo Link](https://rohitveera4096.github.io/Tic-Tac-Toe-Game/)**
- 
- 🎥 **[Demo Video](#)**  
+ 🔗 **[Demo Link](https://rohitveera4096.github.io/Tic-Tac-Toe-Game/)** 
 
 ---
 
@@ -38,9 +36,9 @@ Play with a friend or challenge the computer with three difficulty levels: **Eas
 ## 📦 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/tic-tac-toe.git
+   git clone https://github.com/rohitveera4096/tic-tac-toe.git
    ```
-2. Open `sixth.html` in your browser.
+2. Open `index.html` in your browser.
 3. Or play directly on the **[Live Demo](https://rohitveera4096.github.io/Tic-Tac-Toe-Game/)** link.
 
 ---
@@ -49,7 +47,7 @@ Play with a friend or challenge the computer with three difficulty levels: **Eas
 
 <p align="center">
   <a href="https://youtu.be/qcRaIvW_Gkg">
-    <img src="https://img.youtube.com/vi/qcRaIvW_Gkg/0.jpg" alt="Watch the video" width="600"/>
+    <img src="https://img.youtube.com/vi/qcRaIvW_Gkg/maxresdefault.jpg" alt="Watch the video" width="640" height="360">
   </a>
 </p>
 
