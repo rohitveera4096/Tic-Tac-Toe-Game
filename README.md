@@ -1,7 +1,9 @@
 # 🎮 Tic-Tac-Toe  
 
-A modern Tic-Tac-Toe web game built with **vanilla HTML, CSS, and JavaScript**.  
-Play with a friend or challenge the computer with three difficulty levels: **Easy, Medium, Hard**.
+   - A modern Tic-Tac-Toe web game built with vanilla HTML, CSS, and JavaScript.  
+   - Play with a friend or challenge the AI with three difficulty levels (Easy, Medium, Hard).  
+   - Hard mode uses the **minimax algorithm** for unbeatable gameplay.
+     
 
  🔗 **[Demo Link](https://rohitveera4096.github.io/Tic-Tac-Toe-Game/)** 
 
@@ -16,10 +18,14 @@ Play with a friend or challenge the computer with three difficulty levels: **Eas
 
 ---
 
-## 🚀 Demo Screenshots / GIFs
-(Add images or GIFs of your game here)
+## 🚀 Demo GIFs
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09e21144-1217-42ac-821c-94bb7a7bf74e" alt="Demo GIF" width="500"/>
+</p>
 
 ---
+
 
 ## 🛠 Tech Stack & How I Built It
 - **HTML** – structure of menus, game board, and status
@@ -55,12 +61,12 @@ Play with a friend or challenge the computer with three difficulty levels: **Eas
 ---
 
 ## 🏆 Hackathon Submission (CodeSprout 2025)
-- ✅ Project Title: Tic-Tac-Toe  
-- ✅ Description: Vanilla JS-based Tic-Tac-Toe with AI difficulties  
-- ✅ Live Demo Link: [Insert here]  
-- ✅ GitHub Repo: [Insert here]  
-- ✅ Screenshots/GIFs: [Insert here]  
-- ✅ Demo Video: [Insert here]  
+- ✅ Project Title
+- ✅ Description
+- ✅ Live Demo Link
+- ✅ GitHub Repo
+- ✅ Screenshots/GIFs
+- ✅ Demo Video
 
 ---
 
