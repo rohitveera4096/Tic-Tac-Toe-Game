@@ -1,8 +1,9 @@
 # 🎮 Tic-Tac-Toe  
 
 A modern Tic-Tac-Toe web game built with **vanilla HTML, CSS, and JavaScript**.  
-Play with a friend or challenge the computer with three difficulty levels: **Easy, Medium, Hard**.  
+Play with a friend or challenge the computer with three difficulty levels: **Easy, Medium, Hard**.
 
+ 🔗**[Demo Link](#)**
  🎥 **[Demo Video](#)**  
 
 ---
