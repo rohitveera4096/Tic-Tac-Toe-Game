@@ -46,8 +46,15 @@ Play with a friend or challenge the computer with three difficulty levels: **Eas
 ---
 
 ## 📹 Demo Video
-[Insert YouTube/TikTok/Facebook link here]
 
+<div align="center">
+  <a href="https://youtu.be/7aAxc25H_BI?si=Kmj0z7n_pOlc4vi2">
+    <img src="https://i.ytimg.com/vi/7aAxc25H_BI/hqdefault.jpg" alt="Project Travel Agenta Demo Video" width="640" height="360" border="10" />
+    <br>
+    
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/qcRaIvW_Gkg)
+  </a>
+</div>
 ---
 
 ## 🏆 Hackathon Submission (CodeSprout 2025)
